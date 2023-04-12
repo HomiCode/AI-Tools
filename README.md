@@ -10,7 +10,6 @@ Artificial intelligence (AI) has revolutionized the way humans interact with tec
   - [Cogram](#cogram)
   - [Genei](#genei)
   - [You](#you)
-  - [Jasper](#jasper)
   
 - [Audio](#audio)
   - [Deepgram](#deepgram)
@@ -74,7 +73,7 @@ Ranked "#1 Likely to Recommend" by G2 in AI Sales Assistants, Sales Intelligence
   ![image](https://user-images.githubusercontent.com/78617923/231536492-9cc321ee-f206-45b3-bb90-0010f3218f93.png)
 Writesonic is the world's best AI writing platform for creating SEO-optimized content that increases organic traffic to your website on Google. By strategically placing keywords, internal links, and external links in your generated content, you can increase traffic, sales, and revenue 10x.
 
-  = ### Cogram
+  - ### Cogram
   ![image](https://user-images.githubusercontent.com/78617923/231537895-46f61354-6048-491a-a7c3-f76e50e7668e.png)
 Double your productivity with an intelligent coworker for your team
 Cogram uses AI to take notes in virtual meetings, track action items, and automate downstream tasks, while keeping your data private and secure.
@@ -85,4 +84,9 @@ Genei helps improve productivity and reduce the time spent researching, planning
 Be it a blog article, a podcast, a video, or anything that requires you to search for information online and structure that information in a way you can present as a piece of content, genei can prove a vital tool.
 
   - ### You
+  ![image](https://user-images.githubusercontent.com/78617923/231539556-06b9b737-f1a0-4e42-a59b-0477a028f577.png)
+YouChat helps you do it all — create stunning images, write code, summarize books, explain complex ideas, and create content from text, using generative AI apps directly in YouChat results.
+Create art straight from the chat results. Choose from 4 different models.
+
+  ## Audio
   
