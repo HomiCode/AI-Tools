@@ -13,24 +13,20 @@ Artificial intelligence (AI) has revolutionized the way humans interact with tec
   
 - [Audio](#audio)
   - [Deepgram](#deepgram)
-  - [Resemble.AI](#resemble.ai)
+  - [Resemble.AI](#resemble)
   - [Krisp](#krisp)
   - [Speechify](#speechify)
-  - [Kaizan](#kaizan)
   
  - [Image](#image)
    - [ClipDrop](#clipdrop)
    - [PhotoRoom](#photoroom)
-   - [Pencil](#pencil)
    - [beautiful.ai](#beautiful.ai)
-   - [Facet](#facet)
   
   - [Video](#video)
     - [Runway](#runway)
     - [Pictory](#pictory)
     - [Xembly](#xembly)
     - [Fathom](#fathom)
-    - [Vidyo.ai](#vidyo.ai)
   
   - [Code](#code)
     - [Durable](#durable)
@@ -96,7 +92,7 @@ The AI speech platform for transcription and understanding
 Powerful transcription and speech understanding API built for developers.
 Speech to Text and Natural Language Understanding that is fast, accurate, and just works.
 
-  - ### Resemble.AI
+  - ### Resemble 
   ![image](https://user-images.githubusercontent.com/78617923/231611492-21b9f85c-a302-4d92-b7e0-db8e4d9772e7.png)
 Resemble’s AI voice generator lets you create human–like voice overs in seconds. 
 Flexible APIs made for developers.
@@ -108,5 +104,16 @@ Supercharge your online meetings with Voice Productivity AI
 World's #1 Noise Cancelling
 Krisp improves the productivity of online meetings with its AI-powered Voice Clarity and Meeting Assistant.
 
+  - ### Speechify
+  ![image](https://user-images.githubusercontent.com/78617923/231670106-3d6deab8-86b7-4c8f-ab68-8f98309e2fdd.png)
+Speechify is a mobile and desktop app that reads text aloud using a computer generated text to speech voice. The app also uses optical character recognition technology to turn physical books or printed text into audio. The app lets users take photos of text and then listen to it read out loud
 
+  ## Image
+  
+  - ### ClipDrop
+  ![image](https://user-images.githubusercontent.com/78617923/231671113-f877da75-698d-4ad7-a033-1812b94213d2.png)
+ClipDrop empowers teams of all scales to create better visual content for a fraction of the time and cost.
 
+  - ### PhotoRoom
+  ![image](https://user-images.githubusercontent.com/78617923/231672945-ad7bf49d-d930-41c8-b7c4-99fdffc0e3de.png)
+Instantly remove unwanted objects and defects. With just a swipe of your fingertip, you can make sure your snapshots are flawless.
