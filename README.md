@@ -90,3 +90,23 @@ Create art straight from the chat results. Choose from 4 different models.
 
   ## Audio
   
+  - ### Deepgram
+  ![image](https://user-images.githubusercontent.com/78617923/231559222-84fc1fab-2625-4eda-b1f9-a567db4785f8.png)
+The AI speech platform for transcription and understanding
+Powerful transcription and speech understanding API built for developers.
+Speech to Text and Natural Language Understanding that is fast, accurate, and just works.
+
+  - ### Resemble.AI
+  ![image](https://user-images.githubusercontent.com/78617923/231611492-21b9f85c-a302-4d92-b7e0-db8e4d9772e7.png)
+Resemble’s AI voice generator lets you create human–like voice overs in seconds. 
+Flexible APIs made for developers.
+Rapidly build production-ready integrations with modern tools. Use Resemble’s API to fetch existing content, create new clips and even build voices on the fly. Try our low-latency API.
+
+  - ### Krisp
+  ![image](https://user-images.githubusercontent.com/78617923/231611878-99ee6204-a2a0-48e5-a8a2-4b7d83f6d561.png)
+Supercharge your online meetings with Voice Productivity AI
+World's #1 Noise Cancelling
+Krisp improves the productivity of online meetings with its AI-powered Voice Clarity and Meeting Assistant.
+
+
+
