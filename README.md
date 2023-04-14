@@ -32,7 +32,6 @@ Artificial intelligence (AI) has revolutionized the way humans interact with tec
     - [Replit](#replit)
     - [The.com](#the.com)
     - [Bloop.](#bloop.)
-    - [Enzyme](#enzyme)
   
   - [Marketing](#marketing)
     - [Demandwell](#demandwell)
@@ -140,4 +139,9 @@ Fathom records, transcribes, highlights, and summarizes your meetings so you can
   ## Code
   
   - ### Durable
-    The AI website builder that generates an entire website with images and copy in seconds.
+  ![image](https://user-images.githubusercontent.com/78617923/231937968-f4ede2ea-1ca9-4ee5-962b-eaf88b375254.png)
+The AI website builder that generates an entire website with images and copy in seconds.
+
+  - ### Replit
+Write code with Ghostwriter, an AI-powered pair programmer.
+Collaborate in our real-time multiplayer editor.Build, test, and deploy directly from the browser.
