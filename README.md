@@ -20,12 +20,11 @@ Artificial intelligence (AI) has revolutionized the way humans interact with tec
  - [Image](#image)
    - [ClipDrop](#clipdrop)
    - [PhotoRoom](#photoroom)
-   - [beautiful.ai](#beautiful.ai)
+   - [beautiful.ai](#beautiful)
   
   - [Video](#video)
     - [Runway](#runway)
     - [Pictory](#pictory)
-    - [Xembly](#xembly)
     - [Fathom](#fathom)
   
   - [Code](#code)
@@ -37,8 +36,6 @@ Artificial intelligence (AI) has revolutionized the way humans interact with tec
   
   - [Marketing](#marketing)
     - [Demandwell](#demandwell)
-    - [Jasper](#jasper)
-    - [Lavender](#lavender)
     - [Creatext](#creatext)
     - [Copy.ai](#copy.ai)
     - [Surfer](#surfer)
@@ -117,3 +114,30 @@ ClipDrop empowers teams of all scales to create better visual content for a frac
   - ### PhotoRoom
   ![image](https://user-images.githubusercontent.com/78617923/231672945-ad7bf49d-d930-41c8-b7c4-99fdffc0e3de.png)
 Instantly remove unwanted objects and defects. With just a swipe of your fingertip, you can make sure your snapshots are flawless.
+
+  - ### Beautiful
+  ![image](https://user-images.githubusercontent.com/78617923/231935403-ceb0208c-01fb-4d90-9d34-53c54c548fcd.png)
+The presentation software for everyone.
+This is beautiful.ai. It makes your whole approach to presentations easier – starting with design that works faster. Use it to win pitches, reimagine reports, and get better work done every day.
+
+  ## Video
+  
+  - ### Runway
+  ![image](https://user-images.githubusercontent.com/78617923/231935655-3c27c13d-e07f-43bd-9baa-7eb9270f4e10.png)
+Say Hello to the Next Generation of Generative AI Tools
+Runway Research is enabling the impossible. Our mission is to build multimodal AI systems to enable new types of creative tools.
+
+  - ### Pictory
+  ![image](https://user-images.githubusercontent.com/78617923/231936150-bc4f077e-d9bd-48f8-93bd-c61eee3c7675.png)
+Create Short Branded Video Snippets From Long Form Videos.
+Pictory's advanced Artificial Intelligence (AI) gets your content working for you by automatically extracting 'golden nuggets' hidden deep within your Zoom, Teams & Webinar recordings.
+Perfect for sharing across your social media platforms.
+
+  - ### Fathom
+  ![image](https://user-images.githubusercontent.com/78617923/231936912-b718e9b2-d547-4b63-a331-5d87d372eb5a.png)
+Fathom records, transcribes, highlights, and summarizes your meetings so you can focus on the conversation. Get setup in minutes.
+
+  ## Code
+  
+  - ### Durable
+    The AI website builder that generates an entire website with images and copy in seconds.
