@@ -45,13 +45,6 @@ Artificial intelligence (AI) has revolutionized the way humans interact with tec
     - [VideoVerse](#videoverse)
     - [Sybill](#sybill)
     
-  - [Avatars](#avatars)
-    - [Papercup](#papercup)
-    - [Neosapience](#neosapience)
-    - [Wombo](#wombo)
-    - [Rephrase.ai](#rephrase.ai)
-    - [MetaPhysic](#metaphysic)
-    
   ## Text
   
   - ### Autobound
